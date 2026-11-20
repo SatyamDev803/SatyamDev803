@@ -35,4 +35,4 @@ Core engineer on aperture's AI interview platform (20+ enterprise clients):
 | Monad Blitz Mumbai V4 | [RedeemNow](https://github.com/SatyamDev803/RedeemNow) | 5th place |
 | Monad Blitz Mumbai V2 | monad-id (with Shreyas Thakur) | 4th place |
 
-[LinkedIn](https://www.linkedin.com/in/satyam-sharma16)
+[Website](https://satyamdev803.github.io) · [LinkedIn](https://www.linkedin.com/in/satyam-sharma16)
